@@ -1,4 +1,4 @@
 export {MovieDetail} from './MovieDetail'
-export {MovieList} from './MovieList'
+export {AnimeList} from './AnimeList'
 export {PageNotFound} from './PageNotFound'
 export {Search} from './Search'
