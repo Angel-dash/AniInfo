@@ -1,0 +1,25 @@
+API_key="489953009f3c4b52be74146a96a5e2da"
+base Url: https://api.themoviedb.org/3/movie/now_playing?api_key=489953009f3c4b52be74146a96a5e2da
+Search: 
+
+#MAL api is used
+now playing:
+https://api.jikan.moe/v4/anime?q=ongoing
+
+#Top rated anime:
+https://api.jikan.moe/v4/top/anime
+
+#Seasonal AnimeList
+https://api.jikan.moe/v4/seasons/now
+
+#Upcoming Anime
+https://api.jikan.moe/v4/seasons/upcoming
+
+#Search Anime
+https://api.jikan.moe/v4/anime?q
+
+#TO get random anime suggestion:
+https://api.jikan.moe/v4/random/anime
+
+#Top rated manga:
+https://api.jikan.moe/v4/top/manga
