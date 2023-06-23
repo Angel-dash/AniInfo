@@ -7,7 +7,7 @@ export const AnimeList = ({ apiPath }) => {
 	return (
 		<main>
 			<section className='max-w-9xl mx-auto py-7'>
-				<div className='flex justify-start flex-wrap'>
+				<div className='flex justify-start flex-wrap other:justify-evenly'>
 					{loading && <p>Loading...</p>}
 					{error && <p>{error.message}</p>}
 					{animes &&

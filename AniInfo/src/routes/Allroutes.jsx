@@ -3,7 +3,7 @@ import { AnimeList, MovieDetail, Search, PageNotFound } from "../pages";
 
 export const Allroutes = () => {
 	return (
-		<div className='dark:bg-slate-800'>
+		<div className='dark:bg-darkbg'>
 			<Routes>
 				<Route path='/' element={<AnimeList apiPath='top/manga' />} />
 				<Route path='/movie/:id' element={<MovieDetail />} />
